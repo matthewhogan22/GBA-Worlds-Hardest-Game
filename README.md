@@ -10,3 +10,5 @@ The object of the game is to reach the green goal zone while avoiding the red bl
 For a glimpse of what the game looks like, look at "GBA Game Clip.png"
 
 Hope you enjoy the game!
+
+https://github.com/matthewhogan22/GBA-Worlds-Hardest-Game/blob/main/GBA%20Game%20Clip.png?raw=true
